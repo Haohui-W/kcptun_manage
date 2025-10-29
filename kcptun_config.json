@@ -1,0 +1,16 @@
+{
+  "client": ".\\kcptun-windows-amd64-20250730\\client_windows_amd64.exe",
+  "log_dir": ".\\kcptun-windows-amd64-20250730\\logs",
+  "ip": [
+    { "name": "server1", "value": "192.168.0.3" },
+    { "name": "server2", "value": "192.168.0.4" },
+    { "name": "server3", "value": "192.168.0.5" }
+  ],
+  "port": [
+    { "name": "nginx", "value": "80" },
+    { "name": "spring service1 ", "value": "8080" },
+    { "name": "spring service2 ", "value": "8500" }
+  ],
+  "key": ["my-key"],
+  "crypt": ["aes-128"]
+}

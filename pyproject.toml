@@ -1,0 +1,10 @@
+[project]
+name = "kcptun_manage"
+version = "0.1.0"
+description = "kcptun可视化管理工具"
+requires-python = ">=3.10"
+dependencies = [
+    "psutil>=7.1.2",
+    "pyinstaller>=6.16.0",
+]
+

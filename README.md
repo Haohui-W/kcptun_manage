@@ -1,0 +1,5 @@
+# kcptun_manage
+
+这个项目是一个可视化管理当前kcptun进程的管理器
+
+基于python编写，使用tkinter做可视化
